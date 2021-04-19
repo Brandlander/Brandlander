@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Brandon Landeros
+
+I'm a recently graduated Software Engineer.
+
+--------
+ToolBox
+
+<img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/> <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/csharp/csharp-original.svg" alt="Csharp Logo" width="50" height="50"/> <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg" alt="Csharp Logo" width="50" height="50"/>
+--------
 
 <!--
 **Brandlander/Brandlander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
