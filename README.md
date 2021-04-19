@@ -3,7 +3,7 @@
 I'm a recently graduated Software Engineer.
 
 --------
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Red_toolbox.svg/1024px-Red_toolbox.svg.png" width="25" height="20"/> ToolBox
+🧰 Toolbox
 
 <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/> <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/csharp/csharp-original.svg" alt="Csharp Logo" width="50" height="50"/> <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg" alt="Csharp Logo" width="50" height="50"/>
 --------
