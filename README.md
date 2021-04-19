@@ -10,9 +10,9 @@ I'm a recently graduated Software Engineer.
 --------
 ## &#x1f4c8; My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Brandlander>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandlander&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Brandlander>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandlander)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Brandlander/Brandlander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
