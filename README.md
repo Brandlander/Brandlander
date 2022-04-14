@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Brandon Landeros
 
-I'm a recently graduated Software Engineer.
-
 --------
 🧰 Toolbox
 
